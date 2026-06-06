@@ -1,0 +1,35 @@
+/* ============================================
+   SHADOW NETWORK - APP STYLES
+   Week 2 expansion coming soon
+   ============================================ */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #1a1a1a;
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+}
+
+#shadow-network-app {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #00ff00;
+    text-align: center;
+}
+
+.placeholder {
+    background: #2a2a2a;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.placeholder h2 {
+    color: #00ff00;
+    margin-top: 0;
+}
